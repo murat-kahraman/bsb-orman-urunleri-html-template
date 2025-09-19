@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+    <title>BSB Orman Ürünleri | Hakkımızda</title>
+
+    <!-- Fav Icon -->
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+
+    <!-- Stylesheets -->
+    <link href="assets/css/font-awesome-all.css" rel="stylesheet">
+    <link href="assets/css/flaticon.css" rel="stylesheet">
+    <link href="assets/css/owl.css" rel="stylesheet">
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet">
+    <link href="assets/css/animate.css" rel="stylesheet">
+    <link href="assets/css/nice-select.css" rel="stylesheet">
+    <link href="assets/css/color.css" rel="stylesheet">
+    <link href="assets/css/elpath.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/elements-css/page-title.css" rel="stylesheet">
+    <link href="assets/css/elements-css/about.css" rel="stylesheet">
+    <link href="assets/css/elements-css/service.css" rel="stylesheet">
+    <link href="assets/css/elements-css/clients.css" rel="stylesheet">
+    <link href="assets/css/elements-css/team.css" rel="stylesheet">
+    <link href="assets/css/elements-css/chooseus.css" rel="stylesheet">
+    <link href="assets/css/elements-css/testimonial.css" rel="stylesheet">
+    <link href="assets/css/responsive.css" rel="stylesheet">
+
+</head>
+
+
+<!-- page wrapper -->
+
+<body>
+
+    <div class="boxed_wrapper">
+
+        <?php include 'includes/header.php'; ?>
+
+        <!-- page-title breadcrumbs -->
+        <section class="page-title centred">
+            <div class="bg-layer" style="background-image: url(assets/images/background/page-title.jpg);"></div>
+            <div class="auto-container">
+                <div class="content-box">
+                    <h1>BSB Orman Ürünleri | Hakkımızda</h1>
+                    <ul class="bread-crumb clearfix">
+                        <li><a href="index.html">Ana Sayfa</a></li>
+                        <li>Hakkımızda</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!-- page-title breadcrumbs end -->
+
+
+        <!-- about-section -->
+        <section class="about-section p_relative">
+            <div class="auto-container">
+                <div class="row clearfix">
+                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                        <div class="image_block_one">
+                            <div class="image-box p_relative pr_50 mr_30">
+                                <figure class="image image-1"><img src="assets/images/resource/about-1.jpg" alt="">
+                                </figure>
+                                <figure class="image image-2"><img src="assets/images/resource/about-2.jpg" alt="">
+                                </figure>
+                                <div class="video-btn">
+                                    <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s"
+                                        class="lightbox-image" data-caption=""><i class="icon-10"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                        <div class="content_block_one">
+                            <div class="content-box p_relative ml_30">
+                                <div class="sec-title mb_25">
+                                    <!--<span class="sub-title">BSB Orman Ürünleri</span>-->
+                                    <h2>Hakkımızda </h2>
+                                </div>
+                                <div class="text mb_35">
+                                    <p>BSB Group bünyesinde faaliyet gösteren BSB Orman Ürünleri, orman ürünleri
+                                        sektöründe kaliteli ve sürdürülebilir çözümler sunan lider bir şirkettir.
+                                        Kuruluşumuz, doğa dostu üretim süreçleri ve yenilikçi yaklaşımıyla sektördeki
+                                        yerini sağlamlaştırmış, her zaman çevreye duyarlı ve müşteri odaklı hizmet
+                                        anlayışıyla hareket etmektedir.</p>
+                                </div>
+                                <div class="inner-box mb_35">
+                                    <div class="single-item">
+                                        <div class="icon-box"><i class="icon-11"></i></div>
+                                        <h3>Çözüm Odaklı</h3>
+                                        <p>Müşteri ihtiyacına özel hızlı ve etkili çözümler sunarız.</p>
+                                    </div>
+                                    <div class="single-item">
+                                        <div class="icon-box"><i class="icon-11"></i></div>
+                                        <h3>99.99% Başarı</h3>
+                                        <p>Siparişlerinizi tam zamanında ve eksiksiz ulaştırırız.</p>
+                                    </div>
+                                    <div class="single-item">
+                                        <div class="icon-box"><i class="icon-11"></i></div>
+                                        <h3>İhtiyaca Özel Ölçü</h3>
+                                        <p>Standart paletlerden ziyade ihtiyaca göre ölçülendirme..</p>
+                                    </div>
+                                    <div class="single-item">
+                                        <div class="icon-box"><i class="icon-11"></i></div>
+                                        <h3>2. Elde Hijyenik Ürünler</h3>
+                                        <p>2. el paletlerde de ihtiyacınızı karşılama konusunda hizmetinizdeyiz.</p>
+                                    </div>
+                                </div>
+                                <!--<figure class="signature"><img src="assets/images/icons/signature-1.png" alt=""></figure>-->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- about-section end -->
+
+
+        <!-- service-style-two -->
+        <section class="service-style-two p_relative bg-color-1">
+            <div class="auto-container">
+                <div class="sec-title centred mb_50">
+                    <span class="sub-title">BSB Orman Ürünleri</span>
+                </div>
+                <div class="row clearfix">
+                    <div class="col-lg-12 col-md-12 col-sm-12 service-block">
+                        <div class="sec-title centred mb_50">
+                    <h3>Misyonumuz</h3>
+                </div>
+                        <p>BSB Orman Ürünleri olarak, güçlü altyapımız ve deneyimli ekibimizle, müşterilerimize yüksek
+                            kaliteli ahşap ve orman ürünleri temin etmekteyiz. BSB Group’un sağladığı güçlü finansal
+                            destek ve vizyoner bakış açısı ile sektördeki yenilikçi çözümleri en hızlı şekilde hayata
+                            geçirmeyi hedefliyoruz.</p><br>
+                             <p>Doğanın korunmasına ve sürdürülebilirliğe büyük önem veriyor, tüm üretim süreçlerimizi
+                            çevreye saygılı bir şekilde yürütüyoruz. Müşterilerimizin ihtiyaçlarına en uygun, kaliteli
+                            ve estetik ürünleri sunarak, güvenilir ve uzun vadeli işbirlikleri kurmayı amaçlıyoruz.
+                            BSB Orman Ürünleri, her adımda kaliteyi ve müşteri memnuniyetini ön planda tutarak
+                            sektördeki liderliğini pekiştirmeye devam etmektedir.<br>
+                              <div class="row clearfix">
+                    <div class="col-lg-12 col-md-12 col-sm-12 service-block">
+                        <div class="sec-title centred mb_50"><br>
+                    <h3>Vizyonumuz</h3>
+                </div><br>
+                            <p>Kocaeli Bölgesinde 2015 yılından itibaren 4.000 m2 alanda ahşap palet üretimine devam eden
+                            Bsb Orman Ürünleri, Bosna Hersek’te ise 2020 yılından itibaren 8.000 m2 kapalı alanda ahşap
+                            palet üretimini sürdürmekte olup lojistik çözüm sürecinde müşterilerine hizmet
+                            sağlamaktadır.</p><br>
+                            <p>Küresel pazarın dinamiklerine ayak uydururken, yenilikçi ve sürdürülebilir çözümlerle
+                            müşterilerimizin ihtiyaçlarına odaklanıyoruz. Hedefimiz, hizmet verdiğimiz sektörlerde
+                            güvenilir ve lider bir marka olarak konumumuzu daha da güçlendirmek ve iş ortaklarımıza
+                            değer katmaktır.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- service-style-two end -->
+
+        <!-- müşteri yorumları-stil-2 -->
+        <section class="testimonial-style-two p_relative">
+            <div class="auto-container">
+                <div class="sec-title mb_50 centred">
+                    <span class="sub-title">Müşteri Yorumları</span>
+                    <h2>Bizden Ürün alan Müşterilerimiz <br />Neler Söyledi?</h2>
+                </div>
+                <div class="three-item-carousel owl-carousel owl-theme owl-dots-one owl-nav-none">
+                    <div class="testimonial-block-two">
+                        <figure class="thumb-box"><img src="assets/images/resource/testimonial-3.jpg" alt=""></figure>
+                        <div class="inner-box">
+                            <h3>Ahmet Yılmaz</h3>
+                            <span class="designation">Lojistik Müdürü</span>
+                            <p>“BSB Orman Ürünleri ile çalışmak lojistik süreçlerimizi ciddi anlamda hızlandırdı.
+                                Paletler zamanında ve sağlam şekilde teslim ediliyor.”</p>
+                            <ul class="rating clearfix">
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="far fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="testimonial-block-two">
+                        <figure class="thumb-box"><img src="assets/images/resource/esra_demir.jpg" alt=""></figure>
+                        <div class="inner-box">
+                            <h3>Esra Demir</h3>
+                            <span class="designation">Satın Alma Uzmanı</span>
+                            <p>“İhtiyacımıza özel ölçülerde palet üretimi yapmaları bizim için büyük avantaj oldu. Uygun
+                                fiyat ve kaliteli üretim için doğru adres.”</p>
+                            <ul class="rating clearfix">
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="far fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="testimonial-block-two">
+                        <figure class="thumb-box"><img src="assets/images/resource/mehmet_karaca.jpg" alt=""></figure>
+                        <div class="inner-box">
+                            <h3> Mehmet Karaca</h3>
+                            <span class="designation">Depo Sorumlusu</span>
+                            <p>“BSB’den aldığımız her sipariş düzenli şekilde teslim edildi. Hem ürün kalitesi hem de
+                                iletişim çok başarılı.”</p>
+                            <ul class="rating clearfix">
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="far fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="testimonial-block-two">
+                        <figure class="thumb-box"><img src="assets/images/resource/fatma_ozkan.jpg" alt=""></figure>
+                        <div class="inner-box">
+                            <h3>Fatma Özkan</h3>
+                            <span class="designation">Firma Sahibi</span>
+                            <p>“Büyük hacimli siparişlerde bile zamanında teslimat yaptılar. Uzun süreli iş birliği için
+                                güven veren bir firma.”</p>
+                            <ul class="rating clearfix">
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="far fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="testimonial-block-two">
+                        <figure class="thumb-box"><img src="assets/images/resource/emre_can.jpg" alt=""></figure>
+                        <div class="inner-box">
+                            <h3>Emre Can</h3>
+                            <span class="designation">Nakliye Şefi</span>
+                            <p>“Ürünleri standartlara uygun, taşıma sırasında sorun yaşamıyoruz. Kaliteli malzeme
+                                kullandıkları belli.”</p>
+                            <ul class="rating clearfix">
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="far fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="testimonial-block-two">
+                        <figure class="thumb-box"><img src="assets/images/resource/selin_aksoy.jpg" alt=""></figure>
+                        <div class="inner-box">
+                            <h3>Selin Aksoy</h3>
+                            <span class="designation">İşletme Müdürü</span>
+                            <p>“Müşteri temsilcileri çok ilgiliydi. Tüm sorularımıza yanıt verdiler ve süreci doğru
+                                yönlendirdiler.”</p>
+                            <ul class="rating clearfix">
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="far fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="testimonial-block-two">
+                        <figure class="thumb-box"><img src="assets/images/resource/testimonial-3.jpg" alt=""></figure>
+                        <div class="inner-box">
+                            <h3> Burak Arıkan</h3>
+                            <span class="designation">İhracat Uzmanı</span>
+                            <p>“Yurtdışına gönderdiğimiz ürünler için gerekli ISPM-15 belgeli paletleri hızlıca temin
+                                edebildik.”</p>
+                            <ul class="rating clearfix">
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="far fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="testimonial-block-two">
+                        <figure class="thumb-box"><img src="assets/images/resource/zeynep_kilic.jpg" alt=""></figure>
+                        <div class="inner-box">
+                            <h3> Zeynep Kılıç</h3>
+                            <span class="designation">Üretim Planlama</span>
+                            <p>“Üretim planımıza uygun olarak teslimat yapılması bizim için çok kritik. Bu konuda BSB
+                                gerçekten başarılı.”</p>
+                            <ul class="rating clearfix">
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="far fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="testimonial-block-two">
+                        <figure class="thumb-box"><img src="assets/images/resource/testimonial-5.jpg" alt=""></figure>
+                        <div class="inner-box">
+                            <h3>Caner Topal</h3>
+                            <span class="designation">İnşaat Tedarikçisi</span>
+                            <p>“Dayanıklı ve kaliteli paletleri uygun fiyata bulmak kolay değil. Ama BSB bu konuda
+                                istikrarlı.”</p>
+                            <ul class="rating clearfix">
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="far fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- müşteri yorumları-stil-2 son-->
+
+
+        <?php include 'includes/footer.php'; ?>
+
+    </div>
+
+
+    <!-- jequery plugins -->
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/owl.js"></script>
+    <script src="assets/js/wow.js"></script>
+    <script src="assets/js/validation.js"></script>
+    <script src="assets/js/jquery.fancybox.js"></script>
+    <script src="assets/js/appear.js"></script>
+    <script src="assets/js/scrollbar.js"></script>
+    <script src="assets/js/isotope.js"></script>
+    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="assets/js/parallax-scroll.js"></script>
+
+    <!-- main-js -->
+    <script src="assets/js/script.js"></script>
+
+</body><!-- End of .page_wrapper -->
+
+</html>
